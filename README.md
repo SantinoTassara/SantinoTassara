@@ -1,4 +1,4 @@
-# Santino Tassara Franco 👋
+# Santino Tassara Franco 
 
 ### Desarrollador Full Stack 🚀
 Soy **Técnico en Programación** egresado de la **Universidad Nacional de Lomas de Zamora (UNLZ)**. Actualmente, sigo expandiendo mis conocimientos cursando la **Diplomatura en Desarrollo Full Stack (JavaScript)** en la **UTN**. 
