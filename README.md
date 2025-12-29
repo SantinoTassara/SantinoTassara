@@ -8,6 +8,7 @@ Soy **Técnico en Programación** egresado de la **Universidad Nacional de Lomas
 ### 🛠️ Tecnologías y Herramientas
 
 **Frontend & Backend**
+<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -16,6 +17,7 @@ Soy **Técnico en Programación** egresado de la **Universidad Nacional de Lomas
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Base de Datos & Versionado**
+<br>
 ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
