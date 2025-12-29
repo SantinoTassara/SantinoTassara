@@ -31,7 +31,5 @@ Soy **Técnico en Programación** egresado de la **Universidad Nacional de Lomas
 
 ### 📫 Contacto
 
-Si quieres contactarme para proyectos o simplemente para conectar:
-
 * 📧 **Email:** [santinotassaraar@gmail.com]
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/santinotassara/]
