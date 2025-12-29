@@ -22,10 +22,10 @@ Soy **Técnico en Programación** egresado de la **Universidad Nacional de Lomas
 ---
 
 ### 📊 Estadísticas de GitHub
-Aquí puedes ver un resumen de mi actividad:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantinoTassara&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantinoTassara&layout=compact&theme=radical)
+![Stats de Santino](https://github-readme-stats.vercel.app/api?username=SantinoTassara&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SantinoTassara&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
